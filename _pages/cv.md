@@ -31,7 +31,7 @@ Awards & Honors
 Professional Experience
 ======
 * School of Applied Mathematics, Beijing Normal University, Zhuhai /Sept. 2021 - Dec.2021
-  * Teaching Assistant of The Probability
+  * Teaching Assistant of the Probability Theory
   
 Leadership Experience
 ======
