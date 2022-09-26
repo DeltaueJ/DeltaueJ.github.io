@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 The following are Chinese and English versions of my CV respectively.\
 [Chinese version](http://DeltaueJ.github.io/files/CVC.pdf)\
-[English version](http://DeltaueJ.github.io/files/CVC.pdf)
+[English version](http://DeltaueJ.github.io/files/CVE.pdf)
 
 
 Education
