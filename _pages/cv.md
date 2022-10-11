@@ -16,7 +16,7 @@ The following are Chinese and English versions of my CV respectively.\
 Education
 ======
 * Master in Applied Statistics, Shanxi University of Finance and Economics /Sept.2022 - Current 
-* Bacholar in Applied Statistics, Beijing Normal University, Zhuhai /Sept. 2018 - Jul. 2022
+* Bachelar in Applied Statistics, Beijing Normal University, Zhuhai /Sept. 2018 - Jul. 2022
 
 Awards & Honors
 ======
